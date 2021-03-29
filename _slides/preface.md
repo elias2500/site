@@ -19,5 +19,6 @@ slides:
   - touchdevelop
   - raspberrypi
   - p2p
+  - arduino-ide
 ---
 
