@@ -15,4 +15,5 @@ events:
   - pop
   - math-blaster
   - minecraft-end-user
+  - tennis-for-two
 ---
