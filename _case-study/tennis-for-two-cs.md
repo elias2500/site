@@ -1,5 +1,5 @@
 ---
-author: Kaleridis Ilias
+author: elias2500
 title: Tennis for Two
 image_url: /images/tennis-for-two-thumb.jpg
 caption: Το Tennis For Two είναι ένα βιντεοπαιχνίδι αθλήματος, που προσομοιώνει έναν αγόνα τένις.
