@@ -16,3 +16,6 @@
 [submodule "images"]
 	path = images
 	url = git@github.com:elias2500/images.git
+[submodule "_includes/extras"]
+	path = _includes/extras
+	url = git@github.com:elias2500/extras.git
